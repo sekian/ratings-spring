@@ -1,0 +1,7 @@
+### start rest-api
+run "mvnw.cmd" on windows
+run mvnw on linux
+
+### curl command
+curl -i http://localhost:8080/model2?name="sad+d"/ 
+
